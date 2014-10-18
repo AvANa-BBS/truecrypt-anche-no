@@ -6,7 +6,7 @@ Homepage: http://www.freepto.mx/
 Package: truecrypt-anche-no
 Version: 7.1a
 Maintainer: vinc3nt <vinc3nt@riseup.net>
-Depends: zenity, libc6
+Depends: zenity, libc6, gettext-base
 Files: truecrypt /usr/bin/
   truecrypt.desktop /usr/share/applications/
   truecrypt.xpm /usr/share/pixmaps/
